@@ -18,7 +18,7 @@ Hi, I'm [Upendra Singh Tomar](https://github.com/upendratomar01), a passionate s
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
-  <img align="right" alt="GIF" src="hhttps://github.com/upendratomar01/upendratomar01/blob/f73075b186bb436d5d93c346573b87e3f59b0b41/assets/code.gif" width="500" height="320" />
+  <img align="right" alt="GIF" width="500" height="320" src="https://github.com/upendratomar01/upendratomar01/blob/main/assets/code.gif?raw=true"/>
   
 - 💼 any freelance work? do reach, [email](mailto:tomer.upendra01@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
