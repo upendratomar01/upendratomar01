@@ -5,6 +5,9 @@
 <a href="https://www.linkedin.com/in/upendra-tomar-b30285112/">
   <img align="left" alt="Upendra's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+<a href="https://github.com/upendratomar01">
+  <img align="left" alt="Upendra's Github" width="22px" src="https://github.com/upendratomar01/upendratomar01/blob/main/github.svg" />
+</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=upendratomar01/upendratomar01)
 
