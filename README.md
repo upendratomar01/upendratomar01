@@ -1,13 +1,13 @@
 ### Hey! Nice to see you.
 
 <a href="https://www.instagram.com/upendra_tomar04/">
-  <img align="left" alt="Upendra's Instagram" width="22px" src="./assets/instagram.svg" />
+  <img align="left" alt="Upendra's Instagram" width="22px" src="https://github.com/upendratomar01/upendratomar01/blob/main/assets/instagram.svg" />
 </a>
 <a href="https://www.linkedin.com/in/upendra-tomar-b30285112/">
-  <img align="left" alt="Upendra's LinkedIN" width="22px" src="./assets/linkedin.svg" />
+  <img align="left" alt="Upendra's LinkedIN" width="22px" src="https://github.com/upendratomar01/upendratomar01/blob/main/assets/linkedin.svg" />
 </a>
 <a href="https://github.com/upendratomar01">
-  <img align="left" alt="Upendra's Github" width="22px" src="./assets/github.svg" />
+  <img align="left" alt="Upendra's Github" width="22px" src="https://github.com/upendratomar01/upendratomar01/blob/main/assets/github.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=upendratomar01/upendratomar01)
